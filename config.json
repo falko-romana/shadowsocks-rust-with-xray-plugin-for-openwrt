@@ -1,0 +1,14 @@
+{
+    "server": "",
+    "server_port": "",
+    "password": "",
+    "method": "chacha20-ietf-poly1305",
+    "timeout": 600,
+    "no_delay": false,
+    "fast_open": false,
+    "ipv6_first": false,
+    "ipv6_only": false,
+    "nofile": 10240,
+    "plugin_opts": "",
+    "mode": "tcp_and_udp"
+}
